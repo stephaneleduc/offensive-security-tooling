@@ -10,3 +10,6 @@ Les outils sont classés selon trois catégories :
 - Outils et scripts développés personnellement.
 
 Tous les outils sont utilisés exclusivement dans des environnements autorisés et contrôlés.
+
+📌 Ce dépôt fait partie d’un portfolio plus large :
+👉 https://github.com/stephaneleduc/offensive-security-portfolio
