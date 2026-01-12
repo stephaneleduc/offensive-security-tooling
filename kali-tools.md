@@ -74,6 +74,7 @@ et contrôlés.
 - **keepass2john** : extraction de hash depuis bases KeePass
 - **ssh2john** : extraction de hash de clés SSH
 - **kpcli** : interaction en ligne de commande avec KeePass
+- **cewl** : génération de wordlists ciblées à partir de contenus web
 
 ---
 
