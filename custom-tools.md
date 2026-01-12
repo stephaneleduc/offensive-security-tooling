@@ -33,5 +33,26 @@ Le développement s’est appuyé sur la compréhension du fonctionnement de RSA
 
 
 
+### Kali Workspace Initialization Script
+**Langage :** Bash  
+
+**Objectif :**  
+Automatiser et standardiser la préparation de l’environnement de travail lors du démarrage d’une nouvelle machine ou d’un Pro Lab.
+
+**Description :**  
+Script Bash développé pour initialiser rapidement un espace de travail Kali Linux dédié à une cible.  
+Il automatise la création de l’arborescence de travail, l’ouverture d’un environnement multi-terminaux préconfiguré et le lancement des outils et services couramment utilisés lors des premières phases d’un test d’intrusion.
+
+Le script intègre également l’ouverture d’outils de prise de notes afin de favoriser une documentation continue et structurée tout au long de l’engagement.
+
+L’objectif est de réduire le temps de mise en place, d’éviter les oublis et de garantir une méthodologie reproductible d’une machine à l’autre.
+
+**Contexte d’utilisation :**  
+- Hack The Box  
+- Pro Labs Hack The Box  
+- Environnement Kali Linux
+
+
+
 
 **ℹ️ Le code source des outils personnalisés n’est pas publié et peut être partagé sur demande.**
