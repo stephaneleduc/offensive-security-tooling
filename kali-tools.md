@@ -9,6 +9,8 @@ et contrôlés.
 
 ## 🔍 Reconnaissance & énumération réseau
 - **nmap** : scan réseau et identification des services exposés
+- **tcpdump** : capture et analyse de trafic réseau en ligne de commande
+- **wireshark** : analyse graphique de captures réseau et inspection de protocoles
 - **rustscan** : scan de ports ultra-rapide utilisé en amont de nmap
 - **ldapsearch** : interrogation manuelle de services LDAP
 - **ldapdomaindump** : extraction structurée d’informations Active Directory
