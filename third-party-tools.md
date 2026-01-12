@@ -105,6 +105,10 @@ autorisés et contrôlés.
   Techniques pour obtenir un shell interactif stable sous Windows.  
   https://medium.com/@superstar_/how-to-get-full-tty-shell-on-windows-cdff487a11e1
 
+- **ConPtyShell**  
+  Obtention de shells Windows interactifs et stables via ConPTY.  
+  https://github.com/antonioCoco/ConPtyShell
+
 - **Spawn TTY**  
   Méthodes pour améliorer des shells limités en TTY interactifs.  
   https://wiki.zacheller.dev/pentest/privilege-escalation/spawning-a-tty-shell
