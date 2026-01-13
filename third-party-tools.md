@@ -145,13 +145,13 @@ autorisés et contrôlés.
   Binaires statiques Nmap pour environnements restreints.  
   https://github.com/andrew-d/static-binaries
 
+- **Astuces nmap**  
+  Astuces pour utiliser nmap.  
+  https://www.piirates.fr/nmap-pentest/
+
 - **Bad-PDF**  
   Création de PDF malveillants pour la capture de hashes NTLM.  
   https://github.com/deepzec/Bad-Pdf
-
-- **Astuces nmap**  
-  Astuces utiles pour utiliser correctement nmap.
-  https://www.piirates.fr/nmap-pentest/
 
 ---
 
