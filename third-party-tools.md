@@ -149,6 +149,10 @@ autorisés et contrôlés.
   Création de PDF malveillants pour la capture de hashes NTLM.  
   https://github.com/deepzec/Bad-Pdf
 
+- **Astuces nmap**  
+  Astuces utiles pour utiliser correctement nmap.
+  https://www.piirates.fr/nmap-pentest/
+
 ---
 
 ℹ️ Les liens sont fournis à titre de référence vers les projets originaux.
