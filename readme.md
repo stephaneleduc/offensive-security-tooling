@@ -21,3 +21,8 @@ Les contributions sont les bienvenues via issues / pull requests si elles ajoute
 
 📌 Ce dépôt fait partie d’un portfolio plus large :
 👉 https://github.com/stephaneleduc/offensive-security-portfolio
+
+---
+
+![License](https://img.shields.io/github/license/stephaneleduc/offensive-security-tooling)
+![Repo size](https://img.shields.io/github/repo-size/stephaneleduc/offensive-security-tooling)
