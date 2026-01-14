@@ -4,6 +4,8 @@ Ce dépôt présente les outils utilisés dans le cadre de mes activités
 personnelles en cybersécurité offensive, en complément des laboratoires
 Offensive Security, Hack The Box et CTF.
 
+Ce dépôt n’est pas un ensemble d’outils de hacking automatisés, mais un inventaire raisonné de solutions employées dans mes pratiques de cybersécurité offensive, avec une orientation méthodologique plutôt que automatisation de compromission.
+
 Les outils sont classés selon trois catégories :
 1. `kali-tools.md` – outils présents sur Kali
 2. `third-party-tools.md` – outils téléchargés externes
