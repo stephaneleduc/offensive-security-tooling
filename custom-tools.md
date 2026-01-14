@@ -12,6 +12,37 @@ environnements autorisés et contrôlés.
 
 ## 🛠️ Scripts développés
 
+---
+
+### Automated Recon & Attack Planning Script
+
+**Langage** : Bash
+
+**Description** :
+Script personnel développé pour automatiser la phase de reconnaissance initiale lors de tests d’intrusion (labs OffSec, Hack The Box, Pro Labs), tout en conservant une approche méthodologique et contrôlée.
+Le script standardise les premières étapes du pentest en :
+- préparant l’environnement de travail,
+- identifiant le système cible de manière heuristique,
+- découvrant les services réels exposés (TCP et UDP),
+- gérant les ports non standards et les services multiples.
+
+À partir des résultats de scan, il génère automatiquement un attack-plan.md, associant chaque service détecté aux outils d’énumération adaptés.
+
+**Philosophie** :
+
+Automatisation de la reconnaissance uniquement.
+Aucune exploitation ou attaque automatisée.
+L’analyse et la prise de décision restent humaines.
+
+**Contexte d’utilisation** :
+
+Environnements autorisés et contrôlés
+Hack The Box / Offensive Security Labs
+Usage strictement personnel
+
+---
+
+
 ### JWT RSA Weak Key Exploitation Tool
 **Langage :** Python  
 
@@ -51,10 +82,6 @@ L’objectif est de réduire le temps de mise en place, d’éviter les oublis e
 - Hack The Box  
 - Pro Labs Hack The Box  
 - Environnement Kali Linux
-
----
-
-
 
 ---
 
