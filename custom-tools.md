@@ -30,15 +30,24 @@ Le script standardise les premières étapes du pentest en :
 
 **Philosophie** :
 
-Automatisation de la reconnaissance uniquement.
-Aucune exploitation ou attaque automatisée.
-L’analyse et la prise de décision restent humaines.
+- Automatisation de la reconnaissance uniquement,
+- Aucune exploitation ou attaque automatisée,
+- L’analyse et la prise de décision restent humaines.
 
 **Contexte d’utilisation** :
 
-Environnements autorisés et contrôlés
-Hack The Box / Offensive Security Labs
-Usage strictement personnel
+- Environnements autorisés et contrôlés,
+- Hack The Box / Offensive Security Labs,
+- Usage strictement personnel.
+
+**Perspectives d’évolution** :
+
+- Ajout de scans Nmap avancés spécifiques par service (HTTP, AD, bases de données),
+- Enrichissement du mapping service → outils selon le contexte détecté,
+- Génération de checklists d’énumération par service,
+- Génération assistée de commandes d’outils à partir des services détectés et des identifiants fournis (si disponibles), afin d’accélérer les phases d’énumération,
+- Intégration optionnelle de notes et de résultats intermédiaires,
+- Amélioration de la portabilité (multi-cibles, templates).
 
 ---
 
