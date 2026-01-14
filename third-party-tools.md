@@ -155,4 +155,13 @@ autorisés et contrôlés.
 
 ---
 
+### 🔎 Veille & vulnérabilités
+
+- **OpenCVE**  
+  https://github.com/opencve/opencve  
+  Plateforme open-source de suivi et de corrélation des CVE, permettant de surveiller les vulnérabilités par produit, éditeur ou composant.  
+  Utilisée pour compléter l’analyse des services détectés et identifier des vulnérabilités pertinentes de manière structurée.
+
+---
+
 ℹ️ Les liens sont fournis à titre de référence vers les projets originaux.
