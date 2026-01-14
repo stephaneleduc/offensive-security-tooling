@@ -5,9 +5,9 @@ personnelles en cybersécurité offensive, en complément des laboratoires
 Offensive Security, Hack The Box et CTF.
 
 Les outils sont classés selon trois catégories :
-- Outils utilisés principalement depuis un environnement Kali Linux,
-- Outils tiers issus de dépôts publics,
-- Outils et scripts développés personnellement.
+1. `kali-tools.md` – outils présents sur Kali
+2. `third-party-tools.md` – outils téléchargés externes
+3. `custom-tools.md` – scripts et outils personnels
 
 Tous les outils sont utilisés exclusivement dans des environnements autorisés et contrôlés.
 
