@@ -17,6 +17,10 @@ autorisés et contrôlés.
   Abus de PKINIT et attaques liées aux certificats Kerberos.  
   https://github.com/dirkjanm/PKINITtools
 
+- **PrivHound**
+  Énumération locale orientée élévation de privilèges.  
+  https://github.com/dazzyddos/PrivHound
+
 - **gMSADumper**  
   Lecture et extraction des mots de passe gMSA accessibles.  
   https://github.com/micahvandeusen/gMSADumper
